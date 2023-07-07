@@ -1,15 +1,18 @@
 
   <a id="README.md"></a> 
-  # Create a Logo (logo.svg) file with Inquirer in JavaScript
-  <small>Copyright [mkromney](https://github.com/mkromney) on June 28, 2023 see [License](#license) below.</small>
+  # Back-End JS Note Taker
+  <small>Copyright [mkromney](https://github.com/mkromney) on July 6, 2023 see [License](#license) below.</small>
 
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   
   ## Description
-  This set of code is designed to generate a logo.svg file containg a simple .svg logo. The user is given a series of prompts that allow a user to select the shape, colour and letters (only 3) of the logo.  
+  This an application called Note Taker that can be used to write and save notes. This application will use an Express.js back end and will save and retrieve note data from a JSON file.  
   
-  Video Link of CLA:
-  https://watch.screencastify.com/v/oZNErNZaTYuP42O4R8Mt
+  Git Live URL link:
+  https://mkromney.github.io/Maridon-Module11-HW-NoteTakerJS/
+
+  Heroku Live URL link:
+  https:
   
 
   ## Table of Contents
@@ -24,7 +27,7 @@
   To install this code create a git repository or make a copy of this one and pull the code to a local device. 
   
   ## Usage
-  This .svg logo generator is intended to help make the process of creating a .svg files a little easier by providing prompts and pre-made sections which save time and effort. 
+  A user clicks the "Get Started" tab and proceeds creating a note by entering a Title and some Text. When a user enters data a save button appears in the top right corner where a user may then save their note. 
 
   ## License Fineprint
   Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions: The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software. THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
