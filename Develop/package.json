@@ -12,6 +12,7 @@
   "dependencies": {
     "express": "^4.16.4",
     "fs": "^0.0.1-security",
+    "heroku": "^8.1.9",
     "nodemon": "^2.0.22",
     "uuid": "^9.0.0"
   }
